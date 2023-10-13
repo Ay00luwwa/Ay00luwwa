@@ -9,7 +9,7 @@ My commitment to staying up-to-date with the latest technologies and design tren
 * 🌍  I'm based in Lagos,Nigeria
 * 🖥️  See my portfolio at [AyoIji](http://ay00luwa.vercel.app)
 * ✉️  You can contact me at [ijidakinroayooluwa@gmail.com](mailto:ijidakinroayooluwa@gmail.com)
-* 🧠  I'm learning a new framework(React)
+* 🧠  I'm learning  new frameworks(React, Flask)
 * 🤝  I'm open to collaborating on interesting and at the same time stunning projects
 * ⚡  I love Python
 
