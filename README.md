@@ -33,6 +33,15 @@ My commitment to staying up-to-date with the latest technologies and design tren
 
 <a href="http://www.github.com/Ay00luwwa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ay00luwwa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ay00luwwa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ay00luwwa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Ay00luwwa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay00luwwa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+| My commit history |
+|---|
+|[![Ayooluwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ay00luwwa&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/Ay00luwwa/github-readme-activity-graph) |
+
+
+---
+### 🎧 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31axc4g4psu2sxbqm2wrbv5jdmf4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
