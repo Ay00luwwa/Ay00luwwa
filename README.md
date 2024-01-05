@@ -9,7 +9,7 @@ My commitment to staying up-to-date with the latest technologies and design tren
 * 🌍  I'm based in Lagos,Nigeria
 * 🖥️  See my portfolio at [AyoIji](http://Ay00luwa.vercel.app)
 * ✉️  You can contact me at [ijidakinroayooluwa@gmail.com](mailto:ijidakinroayooluwa@gmail.com)
-* 🚀  I'm currently working on [A next js Admin dashboard](http://nextadmin-navy.vercel.app/dashboard)
+* 🚀  I'm currently working on [A next js Admin dashboard](http://nextadmin-navy.vercel.app/dashboard), [A Django Blog](https://ayooluwa9040t.pythonanywhere.com/)
 * 🧠  I'm learning Next Js
 * ⚡  I love python
 
