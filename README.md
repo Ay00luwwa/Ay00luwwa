@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayooluwa Ijidakinro</h1>
 <h3 align="center">Programmer and Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </p>
-
-- 🔭 I’m currently working on [A Django Blog](https://ayooluwa9040t.pythonanywhere.com/)
+- 🔭 I’m currently working on [Bloga](https://ayooluwa9040t.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **React, NextJS**
 
