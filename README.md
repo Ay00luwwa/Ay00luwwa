@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayooluwa Ijidakinro</h1>
+<h1 align="center">Hi 👋, I'm Ayooluwa Ijidakinro Tioluwanimi</h1>
 <h3 align="center">Programmer and Web Developer</h3>
 
 - 🔭 I’m currently working on the following: [Bloga](https://ayooluwa9040t.pythonanywhere.com/), [Dashboard](https://nextadmin-navy.vercel.app/dashboard)
