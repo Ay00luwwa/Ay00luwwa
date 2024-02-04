@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Amazing Projects**
 
-- 👨‍💻 All of my projects are available at [http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/)
+- 👨‍💻 All of my projects are available at **MY PORTFOLIO** [http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/)
 
 - 💬 Ask me about **Python😁**
 
