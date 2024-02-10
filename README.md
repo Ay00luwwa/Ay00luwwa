@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python😁**
 
-- 📫 Reach me at **ijidakinroayooluwa@gmail.com**
+- 📫 Mail me at: **ijidakinroayooluwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
