@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/)
 
-- 💬 Ask me about **Python😁**
+- 💬 Ask me about anything on **Python😁**
 
 - 📫 Mail me at: **ijidakinroayooluwa@gmail.com**
 
