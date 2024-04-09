@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the following projects: [Bloga](https://ayooluwa9040t.pythonanywhere.com/), [An Admin Dashboard](https://nextadmin-navy.vercel.app/dashboard)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **DBMS**
 
 - 👯 I’m looking to collaborate on **Amazing Projects**
 
