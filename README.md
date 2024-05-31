@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer and Programmer</h3>
 
 
-- 🔭 I’m currently working on an E-commerce store: 
+- 🔭 I’m currently working on an E-commerce store:
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **DBMS, File handling, Web Scraping**
 
 - 👯 I’m looking to collaborate on **Amazing Projects**
 
