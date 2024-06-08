@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/)
 
-- 💻 Willing to learn anything on **Python😁 and Programming**
+- 💻 Willing to learn anything on **Programming, Backend Development and anything Python😁**
 
 - 📫 Mail me at: **ijidakinroayooluwa@gmail.com**
 
