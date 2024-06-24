@@ -12,7 +12,7 @@
 
 - 💻 Willing to learn anything on **Programming, Backend Development and anything Python😁 related**
 
-- 📫 Mail me at: **ijidakinroayooluwa@gmail.com**
+- 📫 Send me a mail at: **ijidakinroayooluwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
