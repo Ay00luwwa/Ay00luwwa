@@ -34,3 +34,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ay00luwwa&show_icons=true&locale=en" alt="ay00luwwa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ay00luwwa&" alt="ay00luwwa" /></p>
+
+
+| My commit history |
+|---|
+|[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ay00luwwa&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+
