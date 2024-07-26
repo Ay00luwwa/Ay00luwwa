@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayooluwa Ijidakinro Tioluwanimi</h1>
+<h1 align="center">Hi 👋, I am Ayooluwa Ijidakinro Tioluwanimi</h1>
 <h3 align="center">Web Developer and Programmer</h3>
 
 
