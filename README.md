@@ -4,9 +4,9 @@
 
 - 🧑‍💻 I am currently working on an EMS(Event Management System):
 
-- 🌱 I’m currently learning **DBMS, File handling, Web Scraping**
+- 🌱 I am currently learning **DBMS, File handling, Web Scraping**
 
-- 👯 I’m looking to collaborate on **Amazing and Stunning Projects**
+- 👯 I am looking to collaborate on **Amazing and Stunning Projects**
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/).
 
