@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer and Programmer</h3>
 
 
-- 🧑‍💻 I’m currently working on an EMS(Event Management System):
+- 🧑‍💻 I am currently working on an EMS(Event Management System):
 
 - 🌱 I’m currently learning **DBMS, File handling, Web Scraping**
 
