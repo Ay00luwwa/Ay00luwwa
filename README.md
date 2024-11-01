@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer and Programmer</h3>
 
 
-- 🧑‍💻 I am currently working on an EMS(Event Management System):
+- 🧑‍💻 I am currently working on an EMS(Event Management System) and Climate Analytics Dashboard:
 
 - 🌱 I am currently learning **DBMS, File handling, Web Scraping**
 
@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ay00luwwa&" alt="ay00luwwa" /></p>
 
 
-| - My commit history -|
+| - My github commit history -|
 |-----|
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ay00luwwa&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
