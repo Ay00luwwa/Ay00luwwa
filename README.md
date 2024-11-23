@@ -4,7 +4,7 @@
 
 - 🧑‍💻 I am currently working on an EMS(Event Management System) and Climate Analytics Dashboard:
 
-- 🌱 I am currently learning **DBMS, File handling, Web Scraping**
+- 🌱 I am currently learning **AI, File handling, Web Scraping**
 
 - 👯 I am looking to collaborate on **Amazing and Stunning Projects**
 
