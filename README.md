@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer and Programmer</h3>
 
 
-- 🧑‍💻 I am currently working on an EMS(Event Management System) and Climate Analytics Dashboard:
+- 🧑‍💻 I am currently working on a Climate Analytics Dashboard:
 
 - 🌱 I am currently learning **AI, File handling, Web Scraping**
 
