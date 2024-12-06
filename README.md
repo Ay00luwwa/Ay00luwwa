@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/).
 
-- 💻 Willing to learn anything on **Programming, Backend Development, Analytics and anything Python😁 related**
+- 💻 Willing to learn anything on **Programming, Backend Development, Database, Analytics and anything Python😁 related**
 
 - 📫 Send me a mail at: **ijidakinroayooluwa@gmail.com**
 
@@ -25,7 +25,7 @@
 
 
 
-**My Spotify Playing **
+**My Spotify Playing**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6flfa3hcgocymtphmcneiikgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
