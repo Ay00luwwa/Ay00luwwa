@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Event Management System](http://eventfl0w.pythonanywhere.com/)
+- 🔭 I’m currently working on an [Event Management System](http://eventfl0w.pythonanywhere.com/)
 
 - 🌱 I am currently learning **AI, File handling, Web Scraping**
 
