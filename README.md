@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on an [Event Management System](http://eventfl0w.pythonanywhere.com/)
 
-- 🌱 I am currently learning **AI, File handling, Web Scraping**
+
+- 🌱 I’m currently learning **PHP, Data Manipulation, File Handling, and Web Scraping**
+
 
 - 👯 I am looking to collaborate on **Amazing and Stunning Projects**
 
