@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </p>
 
 
-
 - 🔭 I’m currently working on an [Event Management System](http://eventfl0w.pythonanywhere.com/)
 
 
