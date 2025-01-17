@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/).
 
-- 💻 Willing to learn anything on **Programming, Backend Development, Database, Analytics, and anything Python😁 related**
+- 💻 Willing to learn anything on **Programming, Backend Development, Database, and anything Python😁 related**
 
 - 📫 Send me an email at: **ijidakinroayooluwa@gmail.com**
 
