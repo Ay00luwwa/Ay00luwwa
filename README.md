@@ -1,14 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Ayooluwa Ijidakinro Tioluwanimi(A.I.T)</h1>
 <h3 align="center">Programmer and Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </p>
-
-
-- 🔭 I’m currently working on an [Event Management System](http://eventfl0w.pythonanywhere.com/)
-
-
-- 🌱 I’m currently learning **PHP, Data Manipulation, File Handling, and Web Scraping**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </>
 
 - 👯 I am looking to collaborate on **Amazing and Stunning Projects**
 
