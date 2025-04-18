@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Ayooluwa Ijidakinro Tioluwanimi(A.I.T)</h1>
+<h1 align="center">Hello there 👋, I am Ayooluwa Ijidakinro Tioluwanimi(A.I.T)</h1>
 <h3 align="center">Programmer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </>
