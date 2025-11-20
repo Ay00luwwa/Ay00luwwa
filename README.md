@@ -37,7 +37,7 @@
 
 **Design & Tools:** Git, GitHub, Figma, Photoshop, Linux, Windows  
 
-</hr>
+## </hr>
 
 **My Spotify Playing**
 
