@@ -35,7 +35,7 @@
 
 **Data & Machine Learning:** Pandas, scikit-learn, Data Visualization (Dashboards, Charts), Web Scraping  
 
-**Design & Tools:** Git, GitHub, Figma, Photoshop, Linux, Windows  
+**Design & Tools:** Git, GitHub, Figma, Photoshop 
 
 ## </hr>
 
