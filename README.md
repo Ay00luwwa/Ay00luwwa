@@ -21,21 +21,21 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python, JavaScript (ES6+), TypeScript, PHP  
+**Languages:** Python, JavaScript (ES6+), TypeScript, PHP.  
 
-**Frontend:** HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap, Chart.js  
+**Frontend:** HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap, Chart.js.
 
-**Backend:** Django, Django REST Framework, Flask, FastAPI, Celery, Supabase Auth, JWT, OAuth2  
+**Backend:** Django, Django REST Framework, Flask, FastAPI, Celery, Supabase Auth, JWT, OAuth2.  
 
-**DevOps & Deployment:** Docker, Nginx, GitHub Actions CI/CD, Heroku, PythonAnywhere, DigitalOcean  
+**DevOps & Deployment:** Docker, Nginx, GitHub Actions CI/CD, Heroku, PythonAnywhere, DigitalOcean.  
 
-**Databases:** PostgreSQL, SQLite, Supabase (PostgreSQL)  
+**Databases:** PostgreSQL, SQLite, Supabase (PostgreSQL).  
 
-**Cloud Services:** Google Cloud Platform, Firebase  
+**Cloud Services:** Google Cloud Platform, Firebase.  
 
-**Data & Machine Learning:** Pandas, scikit-learn, Data Visualization (Dashboards, Charts), Web Scraping  
+**Data & Machine Learning:** Pandas, scikit-learn, Data Visualization (Dashboards, Charts), Web Scraping.  
 
-**Design & Tools:** Git, GitHub, Figma, Photoshop 
+**Design & Tools:** Git, GitHub, Figma, Photoshop. 
 
 ## </hr>
 
