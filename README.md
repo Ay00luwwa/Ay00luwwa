@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </>
 
-- 👯 I am looking to collaborate on **Amazing and Stunning Projects**
+- 👯 I am looking to collaborate on **Amazing and Stunning Projects.**
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[http://ay00luwa.vercel.app/](http://ay00luwa.vercel.app/).
 
