@@ -1,5 +1,6 @@
-<h1 align="center">Hello there 👋, I am Ayooluwa Ijidakinro Tioluwanimi(A.I.T)</h1>
-<h3 align="center">Programmer and Website Developer</h3>
+<h1 align="center">Ayooluwa Ijidakinro Tioluwanimi (A.I.T)
+</h1>
+<h3 align="center">Backend-Focused Software Developer | Python & APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </>
 
