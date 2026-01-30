@@ -22,23 +22,32 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ijidakinro-ayooluwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ijidakinro-ayooluwa/" height="30" width="40" /></a>
 </p>
 
-## 💻 Tech Stack
+**💻 Core Stack**
 
-**Languages:** Python, JavaScript (ES6+), TypeScript, PHP.  
+**Backend & APIs (Primary)**
+Python, Django, Django REST Framework, FastAPI, Flask, Celery
+Authentication: JWT, OAuth2, Supabase Auth
 
-**Frontend:** HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap, Chart.js.
+**Databases**
+PostgreSQL, SQLite, Supabase (PostgreSQL)
 
-**Backend:** Django, Django REST Framework, Flask, FastAPI, Celery, Supabase Auth, JWT, OAuth2.  
+**DevOps & Deployment**
+Docker, Nginx, GitHub Actions (CI/CD), DigitalOcean, Heroku, PythonAnywhere
 
-**DevOps & Deployment:** Docker, Nginx, GitHub Actions CI/CD, Heroku, PythonAnywhere, DigitalOcean.  
+**Frontend (Supporting)**
+HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap, Chart.js
 
-**Databases:** PostgreSQL, SQLite, Supabase (PostgreSQL).  
+**Languages**
+Python, JavaScript (ES6+), TypeScript, PHP
 
-**Cloud Services:** Google Cloud Platform, Firebase.  
+**Cloud Services**
+Google Cloud Platform, Firebase
 
-**Data & Machine Learning:** Pandas, scikit-learn, Data Visualization (Dashboards, Charts), Web Scraping.  
+**Data & Automation**
+Pandas, scikit-learn, Data Visualization (Dashboards, Charts), Web Scraping
 
-**Design & Tools:** Git, GitHub, Figma, Photoshop. 
+**Tools & Design**
+Git, GitHub, Figma, Photoshop**
 
 ## </hr>
 
