@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay00luwwa&label=Profile%20views&color=0e75b6&style=flat" alt="ay00luwwa" /> </>
 
-- 👯 I am looking to collaborate on **Amazing and Stunning Projects.**
+- I’m a backend-focused developer who builds scalable APIs and backend systems using Django, Django REST Framework, and FastAPI.
+- I enjoy designing clean architectures, implementing authentication systems (JWT, OAuth, Supabase), and integrating third-party services.
+
+I’ve worked on real-world projects involving REST APIs, role-based access control, background tasks, data processing, and cloud deployment.
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[https://ayooluwa-tioluwanimi.vercel.app/].
-
-- 💻 Willing to learn anything on **Programming, Backend Development, Database, and anything Python😁 related**
 
 - 📫 Send me an email at: **ijidakinroayooluwa@gmail.com**
 
