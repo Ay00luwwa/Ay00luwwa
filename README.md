@@ -5,7 +5,7 @@
 
 - 👯 I am looking to collaborate on **Amazing and Stunning Projects.**
 
-- 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[https://ayooluwa-tioluwanimi.vercel.app/].
+- 👨‍💻 All of my projects are available at **MY PORTFOLIO** :([https://ayooluwa-tioluwanimi.vercel.app/]).
 
 - 💻 Willing to learn anything on **Programming, Backend Development, Database, and anything Python😁 related**
 
