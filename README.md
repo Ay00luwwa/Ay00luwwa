@@ -6,8 +6,7 @@
 
 - I’m a backend-focused developer who builds scalable APIs and backend systems using Django, Django REST Framework, and FastAPI.
 - I enjoy designing clean architectures, implementing authentication systems (JWT, OAuth, Supabase), and integrating third-party services.
-
-I’ve worked on real-world projects involving REST APIs, role-based access control, background tasks, data processing, and cloud deployment.
+- I’ve worked on real-world projects involving REST APIs, role-based access control, background tasks, data processing, and cloud deployment.
 
 - 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[https://ayooluwa-tioluwanimi.vercel.app/].
 
