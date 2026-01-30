@@ -8,9 +8,12 @@
 - I enjoy designing clean architectures, implementing authentication systems (JWT, OAuth, Supabase), and integrating third-party services.
 - I’ve worked on real-world projects involving REST APIs, role-based access control, background tasks, data processing, and cloud deployment.
 
-- 👨‍💻 All of my projects are available at **MY PORTFOLIO** :[https://ayooluwa-tioluwanimi.vercel.app/].
+👯 Open to collaborating on serious backend-driven products
+👨‍💻 Portfolio: https://ayooluwa-tioluwanimi.vercel.app
 
-- 📫 Send me an email at: **ijidakinroayooluwa@gmail.com**
+📫 Email: ijidakinroayooluwa@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ijidakinro-ayooluwa/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
