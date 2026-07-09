@@ -1,4 +1,4 @@
-<h1 align="center">Ayooluwa Ijidakinro Tioluwanimi (A.I.T)
+<h1 align="center">Ayooluwa Ijidakinro Tioluwanimi Tio-dev
 </h1>
 <h3 align="center">Backend-Focused Software Developer | Python & APIs</h3>
 
